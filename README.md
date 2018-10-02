@@ -1,9 +1,17 @@
-Matplotlib styles
+# Matplotlibrc
 
-* Julia's `GADFLY`
 
-To use
+## Installation
 
 ```
 git clone git@github.com:etheleon/matplotlibrc.git $HOME/.config/matplotlib
 ```
+
+
+## Style
+
+* Style using Julia's `GADFLY`
+
+### Plots
+
+![scatter](scatterplot.jpg)
