@@ -78,7 +78,7 @@ lines.linewidth   : 2     ## line width in points
 #lines.color       : C0      ## has no affect on plot(); see axes.prop_cycle
 #lines.marker      : None    ## the default marker
 # lines.markerfacecolor  : auto    ## the default markerfacecolor
-lines.markeredgecolor  : white    ## the default markeredgecolor
+# lines.markeredgecolor  : white    ## the default markeredgecolor
 lines.markeredgewidth  : 1     ## the line width around the marker symbol
 lines.markersize  : 7            ## markersize, in points
 #lines.dash_joinstyle : round        ## miter|round|bevel
